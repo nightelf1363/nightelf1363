@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nightelf1363
 - 👀 I’m interested in coffee shop
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning barista 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me coffee online shop
 
 <!---
 nightelf1363/nightelf1363 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
